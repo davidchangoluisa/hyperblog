@@ -1,11 +1,9 @@
 David Changoluisa
 Ingeniero electronico nacido en Quito
 
-<<<<<<< HEAD
-Datos Actuales
-=======
 Datos Personales
 Edad: 27 anos
 Ciudad: Quito
 correo: changoluisadavid@gmail.com
->>>>>>> perfil
+
+Esto voy a tener solo en el master
