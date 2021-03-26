@@ -3,7 +3,7 @@ Ingeniero electronico nacido en Ecuador
 
 Datos Actuales
 Edad: 27 anos
-Ciudad: Quito
+Ciudad: Latacunga
 correo: changoluisadavid@gmail.com
 
 Esto voy a tener solo en el master
